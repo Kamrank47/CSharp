@@ -1,0 +1,15 @@
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/bin/Debug/net6.0/3invertedhalfparamid
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/bin/Debug/net6.0/3invertedhalfparamid.deps.json
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/bin/Debug/net6.0/3invertedhalfparamid.runtimeconfig.json
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/bin/Debug/net6.0/3invertedhalfparamid.dll
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/bin/Debug/net6.0/ref/3invertedhalfparamid.dll
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/bin/Debug/net6.0/3invertedhalfparamid.pdb
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/obj/Debug/net6.0/3invertedhalfparamid.csproj.AssemblyReference.cache
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/obj/Debug/net6.0/3invertedhalfparamid.GeneratedMSBuildEditorConfig.editorconfig
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/obj/Debug/net6.0/3invertedhalfparamid.AssemblyInfoInputs.cache
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/obj/Debug/net6.0/3invertedhalfparamid.AssemblyInfo.cs
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/obj/Debug/net6.0/3invertedhalfparamid.csproj.CoreCompileInputs.cache
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/obj/Debug/net6.0/3invertedhalfparamid.dll
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/obj/Debug/net6.0/ref/3invertedhalfparamid.dll
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/obj/Debug/net6.0/3invertedhalfparamid.pdb
+/home/kamran/practice/C# Practice/forLoop Patterns/3invertedhalfparamid/obj/Debug/net6.0/3invertedhalfparamid.genruntimeconfig.cache

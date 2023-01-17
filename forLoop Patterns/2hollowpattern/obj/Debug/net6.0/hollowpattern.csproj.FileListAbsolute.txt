@@ -1,0 +1,15 @@
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/bin/Debug/net6.0/hollowpattern
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/bin/Debug/net6.0/hollowpattern.deps.json
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/bin/Debug/net6.0/hollowpattern.runtimeconfig.json
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/bin/Debug/net6.0/hollowpattern.dll
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/bin/Debug/net6.0/ref/hollowpattern.dll
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/bin/Debug/net6.0/hollowpattern.pdb
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/obj/Debug/net6.0/hollowpattern.csproj.AssemblyReference.cache
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/obj/Debug/net6.0/hollowpattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/obj/Debug/net6.0/hollowpattern.AssemblyInfoInputs.cache
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/obj/Debug/net6.0/hollowpattern.AssemblyInfo.cs
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/obj/Debug/net6.0/hollowpattern.csproj.CoreCompileInputs.cache
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/obj/Debug/net6.0/hollowpattern.dll
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/obj/Debug/net6.0/ref/hollowpattern.dll
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/obj/Debug/net6.0/hollowpattern.pdb
+/home/kamran/practice/C# Practice/forLoop Patterns/hollowpattern/obj/Debug/net6.0/hollowpattern.genruntimeconfig.cache

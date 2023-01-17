@@ -1,0 +1,15 @@
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/bin/Debug/net6.0/rectanglePattern
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/bin/Debug/net6.0/rectanglePattern.deps.json
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/bin/Debug/net6.0/rectanglePattern.runtimeconfig.json
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/bin/Debug/net6.0/rectanglePattern.dll
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/bin/Debug/net6.0/ref/rectanglePattern.dll
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/bin/Debug/net6.0/rectanglePattern.pdb
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/obj/Debug/net6.0/rectanglePattern.csproj.AssemblyReference.cache
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/obj/Debug/net6.0/rectanglePattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/obj/Debug/net6.0/rectanglePattern.AssemblyInfoInputs.cache
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/obj/Debug/net6.0/rectanglePattern.AssemblyInfo.cs
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/obj/Debug/net6.0/rectanglePattern.csproj.CoreCompileInputs.cache
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/obj/Debug/net6.0/rectanglePattern.dll
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/obj/Debug/net6.0/ref/rectanglePattern.dll
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/obj/Debug/net6.0/rectanglePattern.pdb
+/home/kamran/practice/C# Practice/forLoop Patterns/rectanglePattern/obj/Debug/net6.0/rectanglePattern.genruntimeconfig.cache
